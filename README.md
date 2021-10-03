@@ -21,5 +21,5 @@ This repository contains a script based on [this article](https://www.sethvargo.
 
 ## Running
 ```
-./replace_icons.sh
+sudo ./replace_icons.sh
 ```
